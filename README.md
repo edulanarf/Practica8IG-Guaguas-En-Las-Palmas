@@ -12,7 +12,8 @@
    - `simulation.js`  
    - `utils.js`  
 4. [Flujo de la Simulación](#flujo-de-la-simulación)  
-5. [Archivos CSV Necesarios](#archivos-csv-necesarios) 
+5. [Archivos CSV Necesarios](#archivos-csv-necesarios)
+6. [Video](#enlace-al-video) 
 
 ---
 
@@ -247,6 +248,11 @@ Se crean esferas en la escena para cada parada y se guardan en el objeto `esfera
 
 **Uso:** Se procesa mediante `procesarCSVViajes(content, scene, esferaPorStop, shapesGlobal, mapsx, mapsy)` en `trips.js`.  
 Organiza los viajes por trip y por línea, y prepara los datos para la simulación con `simularViajeDiaCompleto(...)`.
+
+
+# Enlace al video
+
+https://drive.google.com/file/d/1Ymf_ccf22oTLpWGrc6KMLeL8FX4HA4ld/view?usp=sharing  
 
 
 
